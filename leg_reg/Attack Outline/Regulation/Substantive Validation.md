@@ -22,11 +22,9 @@ Applying [[Mead]], the agency’s interpretation should be scrutinized under the
 
 1. ==STEP ONE of the Cheveron Test is to ask whether Congress has spoken to this legal question== such that no gap is left for the agency to fill with its own interpretation.  Address whether the agency has given a reason for its interpretation and whether Congress has explicitly disapproved of this interpretation. Turn to tools of [[#Statutory Interpretation]] to check whether Congress's intent was clear.
 	 *  **NOTE**: For [[#^563656|major questions]], Congress's silence is an implicit exclusion. It would have had to speak to a given issue to communicate its intent to include it.
-
+	 
 	1.    IF THERE’S A GAP → Thus, Congress has not spoken to this legal question. Turning to Step Two, the question is whether the agency’s interpretation is reasonable in light of the statute’s text and purpose, see [[Babbit]].
-
 	1.    IF THERE’S NO GAP → Thus, Congress has spoken to this legal question. But assuming that Congress had not done so, we would turn to Step Two […^go to “if there’s a gap” path].
-
 5.   ==STEP TWO of the Chevron Test is to ask whether the agency's interpretation is "a permissible construction of the statute" that is "reasonable".==
 	 * **NOTE**: The Supreme Court is the only court that has ever felt so empowered as to answer "no" here.
     

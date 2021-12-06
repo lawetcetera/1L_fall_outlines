@@ -33,7 +33,7 @@
 #### Semantic Cannons
 * ***ejusdem generis***, see [[McBoyle]]
 	* When a list of specific items is followed by a catch-all phrase, the catch-all is restricted to other things of the same type as those listed before it
-* ***noscitur a sociis***, see [[General Dynamics]]
+* ***noscitur a sociis***, see [[General Dynamics]], [[Gustafson]]
 	* A word gathers meaning from those around it
 * ***expresio unius***, see [[Babbit]]; see also [[NLRB]]
 	* The inclusion of terms or item should be read as the exclusion of those not listed
@@ -80,6 +80,6 @@
 	* The most radical commitment to the non-delegation doctrine is anti-administrative state (i.e., it is unconstitutional for Congress to delegate legislative powers)
 * **no retroactivity** - 
 * **no preemption** - 
-* **elephant in a mousehole** - presume against Congress hiding an important provision in purely technical language of an obscure section of a statute, see [[King]]
+* **elephant in a mousehole** - presume against Congress hiding an important provision in purely technical language of an obscure section of a statute, see [[King]], [[American Trucking]]
 * **major questions cannon** - assume that Congress would not have left major about agency authority to the agency's discretion, so presume against interpretations that would give that odd result, see [[Brown & Williamson]]
 	* Used specifically in the context of reviewing the power of agencies
