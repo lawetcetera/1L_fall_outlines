@@ -7,7 +7,6 @@ To determine what it is an agency has issued, see [[Procedural Validation]].
 A court may find the agency's interpretive rule to be *valid* or to be *unsound*.
 
 #### Mead Framework
-
 Applying [[Mead]], the agency’s interpretation should be scrutinized under the framework set forth in [[Chevron]] or [[Skidmore]].
  1. The first question is whether Congress delegated to the agency the authority to make rules carrying the force of law, see [[Mead]].
 	 * ==Answer whether Congress did== (possibilities include [[Notice and Comment Rulemaking]] authorization, permission to “regulate,” formal adjudicatory hearings, or comparably formal requirements). Delegation of quasi-judicial or quasi-executive power do not count.
@@ -15,7 +14,7 @@ Applying [[Mead]], the agency’s interpretation should be scrutinized under the
 			  *   ==Answer whether the agency did==
 			1.   IF THE AGENCY DID → Because the agency, to issue this interpretation, used the legislative authority delegated to it by Congress, apply the [[#Chevron Framework]] (below)
 			2.   IF THE AGENCY DIDN’T → Because the agency issued its interpretation without using the legislative authority delegated to it by Congress, Skidmore applies, and the agency’s interpretation is owed judicial deference according to its “power to persuade,” [[Mead]] (quoting [[Skidmore]]).
-	2.    IF CONGRESS DIDN’T → Even if the agency had been delegated legislative rulemaking authority by Congress, it did/did not use that authority when issuing this rule. ==Explain==. In reality though, because Congress did not delegate such legislative authority to the agency, Mead’s second question (i.e., whether the agency used that delegated authority here) is moot, and the [[#Skidmore Framework]] applies.
+	2.    IF CONGRESS DIDN’T → Because Congress did not delegate legislative authority to this agency, Mead's second question is moot, and the [[#Skidmore Framework]] applies. Consider also were Congress to have delegated that authority, whether the agency used delegated authority here.
 	
 #### Chevron Framework
 	
@@ -24,7 +23,7 @@ Applying [[Mead]], the agency’s interpretation should be scrutinized under the
 1. ==STEP ONE of the Cheveron Test is to ask whether Congress has spoken to this legal question== such that no gap is left for the agency to fill with its own interpretation.  Address whether the agency has given a reason for its interpretation and whether Congress has explicitly disapproved of this interpretation. Turn to tools of [[#Statutory Interpretation]] to check whether Congress's intent was clear.
 	 *  **NOTE**: For [[#^563656|major questions]], Congress's silence is an implicit exclusion. It would have had to speak to a given issue to communicate its intent to include it.
 
-	1.    IF THERE’S A GAP → Thus, Congress has not spoken to this legal question. Turning to Step Two, the question is whether the agency’s interpretation is reasonable in light of the statute’s text and purpose, see [[Babbitt]].
+	1.    IF THERE’S A GAP → Thus, Congress has not spoken to this legal question. Turning to Step Two, the question is whether the agency’s interpretation is reasonable in light of the statute’s text and purpose, see [[Babbit]].
 
 	1.    IF THERE’S NO GAP → Thus, Congress has spoken to this legal question. But assuming that Congress had not done so, we would turn to Step Two […^go to “if there’s a gap” path].
 
