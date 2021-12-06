@@ -1,0 +1,1 @@
+4.  Finley v. United States: overruled. Parties that otherwise could not be sued in federal courts cannot be brought into federal court solely on the basis of having their claims share the same facts as the claim mandated to the federal courts through exclusive jurisdiction. 

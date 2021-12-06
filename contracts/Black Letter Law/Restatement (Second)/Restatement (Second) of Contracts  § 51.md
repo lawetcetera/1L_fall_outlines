@@ -1,0 +1,1 @@
+  Unless the offeror manifests a contrary intention, an offeree who learns of an offer after he has rendered part of the performance requested by the offer may accept by completing the requested performance.

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "436304b443857470",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f11ad35142be339",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cases/Klaxon.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "298011aedfc9b3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f600ce7ae755179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d69d77ac252bf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e95d7f9e31cc2d41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "motion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "right": {
+    "id": "274c8799037ed47f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45d48e68dc5c7f21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e152d8847c0fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cases/Klaxon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f11ad35142be339",
+  "lastOpenFiles": [
+    "Cases/Klaxon.md",
+    "Black Letter Law/US Code/28 U.S.C. § 1391.md",
+    "Black Letter Law/FRCP/Federal Rules of Civil Procedure 12.md",
+    "Black Letter Law/FRCP/Federal Rules of Civil Procedure 4.md",
+    "Black Letter Law/US Code/28 U.S.C.  § 1441.md",
+    "Black Letter Law/US Code/28 U.S.C. § 1331.md",
+    "Black Letter Law/US Code/28 U.S.C. § 1332.md",
+    "Black Letter Law/US Code/28 U.S.C. § 1367.md",
+    "Doctrine/Choice of Law/Horizontal Choice of Law.md",
+    "Doctrine/Venue/Transfer.md"
+  ]
+}
