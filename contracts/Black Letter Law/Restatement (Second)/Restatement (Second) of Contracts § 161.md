@@ -1,0 +1,3 @@
+A person’s [[Fraud & Misrepresentation|non-disclosure of a fact]] known to him is equivalent to an assertion that the fact does not exist where:
+* Where he knows that disclosure of the fact would correct a mistake of the other party as  to a basic assumption on which that party is making the contract AND 
+* If non-disclosure of the fact amounts to a failure to act in good faith and in accordance  with reasonable standards of fair dealing.

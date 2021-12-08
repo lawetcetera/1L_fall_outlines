@@ -1,0 +1,1 @@
+If a party's manifestation of assent is induced by either [[Fraud & Misrepresentation|a fraudulent or a material  misrepresentation]] by the other party upon which the recipient is justified in relying, the  contract is voidable by the recipient.

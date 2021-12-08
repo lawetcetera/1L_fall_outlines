@@ -23,7 +23,7 @@ Damages are not recoverable for loss beyond an amount that the evidence permits 
 	* **NOTE**: [[Restitution]] is an exception
 
 ### Foreseeability
-
+**NOTE**: cite [[Hadley v. Baxendale]]
 A defendant can only be held liable for damages that were foreseeable at the time of contract formation. When talking about foreseeability, damages are categorized as *general* and *special*.
 *	General damages are the kind that a reasonable person would assume would arise under the normal course of events
 *	Special damages are those that arize from special circumstances that a reasonable person could not have known would result from breach at the time the contract was formed

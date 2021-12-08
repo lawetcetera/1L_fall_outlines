@@ -1,0 +1,4 @@
+# Frustration
+
+Frustration of purpose is a possible justification for nonperformance. Frustration depends on the total or nearly total destruction of the purpose for which the parties entered into the contract. The circumstance must have been unanticipated and have made performance vitally different from what was initially expected. It is related to [[Impossibility & Impracticability]], though in cases of frustration, performance remains possible.
+* For example, consider the sale of a house which, during closing period, was suddenly subject to increased radiation due to a nearby nuclear meltdown (but was not so close as to be in a quarantine zone).

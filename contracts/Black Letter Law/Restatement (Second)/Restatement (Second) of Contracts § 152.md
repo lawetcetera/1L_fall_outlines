@@ -1,0 +1,3 @@
+When [[Mistake]] of Both Parties Makes a Contract Voidable
+* Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under the rule stated in  § 154.
+* In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise.

@@ -7,7 +7,7 @@
 #### Is there a contract?
 * [[Unilateral vs. Bilateral]]
 * [[Authority To Enter Into a Contract]]
-* Mutual Assent
+* [[Restatement (Second) of Contracts § 17|Mutual Assent]]
 	* [[Offer]]
 	* [[Acceptance]]
 * [[Consideration]]
@@ -15,31 +15,33 @@
 * [[Definiteness |Definiteness of Terms]]
 * [[Form Contracts]]
 
-#### Is the contract enforceable?
+#### Is the contract enforceable? Can one party justify nonperforamance?
 * Uniform Commercial Code & [[Statute of Frauds]]
 * [[Mistake]]
 * [[Minority]] & [[Incapacitation]]
-* [[Misrepresentation]] & [[Fraud & Misrepresentation]]
+* [[Fraud & Misrepresentation]]
 * [[Impossibility & Impracticability]]
-* [[Durress]]
+* [[Duress]]
 * [[Undue Influence]]
 * [[Unconscionability]]
 * [[Frustration]]
 * [[Public Policy Considerations of Non-Enforcement]]
+
 #### How ought this contract be interpreted?
-* [[Principles of Interpretation]]
 * [[Parol Evidence Rule]]
 * [[Implied Contracts]]
+* [[Implied Terms]]
 * [[Modification]]
 * [[Material Benefits]]
+
 #### What remedies are available?
 * [[Money Damages]]
 	* [[Money Damages#Expectation Damages|Expectation]]
 	* [[Money Damages#Reliance Damages|Reliance]]
-	* [[Money Damages#Restitution|Restitution]]
+	* [[Restitution]]
 	* Limitation on Money Damages
 		* [[Money Damages#Uncertainty|Uncertainty]]
-		* [[Money Damages#Foreseeability| Foreseeability]]
+		* [[Money Damages#Foreseeability| Foreseeability]] (cite: Hadley v. Baxendale)
 		* [[Money Damages#Mitigation| Mitigation]]
 		* [[Money Damages#Liquidated Damages Provision|Liquidated Damages Provision]]
 * [[Specific Performance]]

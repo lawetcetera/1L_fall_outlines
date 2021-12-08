@@ -10,9 +10,7 @@ Promissory estoppel is only available if the party claiming it can demonstrate t
 
 *Katz v. Danny Dare*
 A contract to pay a pension was held to be enforceable because the plaintiff resigned in reliance on that promise.
-	* The court ruled in the opposite in other cases where it was not proven that the party retired strictly in reliance on this promise
-	
-**
+* The court ruled in the opposite in other cases where it was not proven that the party retired strictly in reliance on this promise
 
 ## Requirements
 1. Clear and definite promise by the promisor
@@ -23,4 +21,4 @@ A contract to pay a pension was held to be enforceable because the plaintiff res
 
 
 ## Relief
-Relief in cases of promissory estoppel is generally limited to [[Money Damages#Reliance Damages]], as opposed to [[Money Damages#Expectation Damages]]
+Relief in cases of promissory estoppel is generally limited to [[Money Damages#Reliance Damages|reliance damages]], as opposed to [[Money Damages#Expectation Damages|expectation damages]]

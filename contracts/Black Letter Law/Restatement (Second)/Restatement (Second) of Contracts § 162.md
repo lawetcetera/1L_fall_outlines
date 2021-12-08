@@ -1,0 +1,3 @@
+A [[Fraud & Misrepresentation|misrepresentation]] is fraudulent if the maker intends his assertion to induce a party to  manifest his assent and the maker.
+* Knows or believes that the assertion is not in accord with the facts, or 
+* Does not have the confidence that he states or implies in the truth of the assertion, or o Knows that he does not have the basis that he states or implies for the assertion.

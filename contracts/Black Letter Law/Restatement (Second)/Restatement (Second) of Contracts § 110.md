@@ -1,5 +1,5 @@
 # (1)
-The following classes of contracts are subject to a statute, commonly called the Statute of Frauds, forbidding enforcement unless there is a written memorandum or an applicable exception:
+The following classes of contracts are subject to a statute, commonly called the [[Statute of Frauds]], forbidding enforcement unless there is a written memorandum or an applicable exception:
 
 ## (1)(a) 
 a contract of an executor or administrator to answer for a duty of his decedent (the executor administrator provision);

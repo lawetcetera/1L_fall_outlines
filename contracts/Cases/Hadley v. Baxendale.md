@@ -1,0 +1,1 @@
+**RULE**: A breaching party is liable only for damages which parties should have foreseen, but is not liable for losses due to unforseeable circumstances based on available information
