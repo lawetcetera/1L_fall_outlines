@@ -1,4 +1,6 @@
 # Case Index
+**The better argument is the one that deploys its tools more persuasively.**
+
 ## [[Statutory Interpretation]]
 ### Introduction to Statutory Interpretation
 * [[TVA v. Hill]]
@@ -7,19 +9,19 @@
 ### Text v. Purpose
 * [[Holy Trinity]]
 Absurdity Doctrine:
-* [[Kirby]]
-* [[Public Citizen]]
+* [[U.S. v. Kirby]]
+* [[Public Citizen v. U.S. DOJ]]
 
 ### The "New" Textualism
 * [[West Virginia University Hospitals v. Casey]]
-* [[General Dynamics Land System]]
+* [[General Dynamics Land Systems v. Cline]]
 
 ### Textualism Evolves
 * [[King v. Burwell]]
 * [[Bostock v. Clayton County]]
 
 ### Dynamic Statutory Interpretation
-* [[Welosky]]
+* [[Commonwealth v. Welosky]]
 * [[Hively v. Ivy Tech]]
 
 ### The Judicial Role
@@ -30,14 +32,14 @@ Absurdity Doctrine:
 * [[Smith v. U.S.]]
 
 ### Legislative History
-* [[Train]]
+* [[Train v. Colorado Public Interest Research Group]]
 * [[Blanchard v. Bergeron]]
-* [[Continental Can]]
+* [[Continental Can Company, Inc. v. Chicago Truck Drivers, Helpers, and Warehouse Workers Union]]
 
 ### Canons of Construction
 #### Semantic Canons
 * [[McBoyle v. U.S.]]
-* [[Riggs v. Palmer]]
+* [[Riggs v. Palmer]] (revisted)
 * [[Gustafson v. Alloyd Co.]]
 
 #### Substantive Canons
@@ -47,7 +49,7 @@ Constitutional Avoidance:
 Sovereignty/Federalism
 * [[Gregory v. Ashcroft]]
 
-Capstones:
+### Capstone Cases
 * [[Yates]]
 * [[Babbitt]]
 
