@@ -62,7 +62,7 @@ IN EITHER CASE → Consider if the agency had been delegated legislative authori
  
  A court may find the agency's policy decision to be *valid* or to be *unsound*.
     
--   Because the [statute] [does/does not] specify a standard of review, courts will review it under [that standard/the APA’s arbitrary-and-capricious review process]. State Farm (determining that the NTMVSA did not provide its own standard of review but stipulated the APA’s review provisions controlled). Under A&C review, agency actions are presumed to be valid, but courts must not rubberstamp them. Instead, courts must inspect the agency’s cumulative evidence to determine if the agency had a rational basis in the record for its decision, see [[Ethyl Corp]].
+-   Because the [statute] [does/does not] specify a standard of review, courts will review it under [that standard/the APA’s arbitrary-and-capricious review process]. State Farm (determining that the NTMVSA did not provide its own standard of review but stipulated the APA’s review provisions controlled). Under A&C review, agency actions are presumed to be valid, but courts must not rubberstamp them. Instead, courts must inspect the agency’s cumulative evidence to determine if the agency had a rational basis in the record for its decision.
     
 
 ### Arbitrary and Capricious Review

@@ -15,10 +15,9 @@
 ### Text of the statute
 * **plain meaning**, see [[Smith v. U.S.]], [[TVA v. Hill]], [[Nix v. Hedden]]
 	* **dictionary definition** of a word, see [[Smith v. U.S.]]
-	* **idiomatic usage**, see 
+	* **idiomatic usage**, see [[General Dynamics Land Systems v. Cline]]
 	* **specialized meaning**, see [[Nix v. Hedden]]
 	* **common legal usage**, see [[West Virginia University Hospitals v. Casey]]
-	* **technical meaning**, see [[Corning]]
 * **other statutes**, see [[West Virginia University Hospitals v. Casey]]
 * **context** in the rest of the statute; dictionary unhelpful without surrounding context, see [[Yates]]
 	* do not render other provisions incoherent, see [[Smith v. U.S.]]
@@ -80,6 +79,6 @@
 	* The most radical commitment to the non-delegation doctrine is anti-administrative state (i.e., it is unconstitutional for Congress to delegate legislative powers)
 * **no retroactivity** - 
 * **no preemption** - 
-* **elephant in a mousehole** - presume against Congress hiding an important provision in purely technical language of an obscure section of a statute, see [[King v. Burwell]], [[American Trucking]]
+* **elephant in a mousehole** - presume against Congress hiding an important provision in purely technical language of an obscure section of a statute, see [[King v. Burwell]], [[Whitman v. American Trucking Assn.]]
 * **major questions cannon** - assume that Congress would not have left major about agency authority to the agency's discretion, so presume against interpretations that would give that odd result, see [[FDA v. Brown & Williamson]]
 	* Used specifically in the context of reviewing the power of agencies

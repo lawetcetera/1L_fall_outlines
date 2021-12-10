@@ -86,7 +86,7 @@ Legislative rules are required to comply with [[5 U.S.C. § 553]] (with [[#Excep
 #### Interim Final Rulemaking
 An interim final rule goes straight into effect but takes after-the-fact comment. It has the opportunity to integrate proposals from comments into the final rule within 60 days of the rule having been published.
 * This is pretty much what DHS does all the time
-* The Court endorsed this process, see [[Little SIsters]]
+* The Court endorsed this process
 
 ##### Exceptions to § 553 Compliance
 * If the agency did not follow the requirements for [[Notice and Comment Rulemaking]] as outlined in the statute, it is not compliant, unless the agency can show the promulgation of this rule fell under one of the following exceptions:

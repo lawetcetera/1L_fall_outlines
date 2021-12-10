@@ -56,17 +56,17 @@ Sovereignty/Federalism
 ## Intro to the Administrative State
 ### Constitutional Foundations
 The Non-Delegation Doctrine:
-* [[Hampton]]
-* [[Schechter Poultry]]
-* [[American Trucking]]
+* [[Hampton v. U.S.]]
+* [[Schechter Poultry Corp. v. U.S.]]
+* [[Whitman v. American Trucking Assn.]]
 
 Congressional Control of Delegated Power:
-* [[Chadha]]
+* [[Immigration and Naturalization Service v. Chadha]]
 
 Presidential Control through Appointments and Removal:
-* [[Buckley]]
-* [[Myers]]
-* [[Humphrey's Executor]]
+* [[Buckley v. Valeo]]
+* [[Myers v. U.S.]]
+* [[Humphrey's Executor v. U.S.]]
 * [[Morrison v. Olson]]
 * [[Free Enterprise]]
 * [[Selia Law]]
