@@ -40,7 +40,7 @@ Applying [[Hoctor v. Dep't of Agriculture]], this document would be invalid as a
 
 #### Procedural soundness of an interpretive rule
 * Interpretive rules are not required to follow [[5 U.S.C. § 553]]'s requirements for [[Notice and Comment Rulemaking]], but it is helpful for the agency to include some basis for its decision. ==Address if it did or did not==.
-* Though interpretive rules are not required to follow [[5 U.S.C. § 553]]'s requirements for [[Notice and Comment Rulemaking]], the agency cannot leave "vital questions" about its decision unanswered, see [[Nova Scotia Foods]]. ==Address if it did or did not.==
+* Though interpretive rules are not required to follow [[5 U.S.C. § 553]]'s requirements for [[Notice and Comment Rulemaking]], the agency cannot leave "vital questions" about its decision unanswered, see [[U.S. v. Nova Scotia Food Products Corp.]]. ==Address if it did or did not.==
 
     
 
@@ -64,11 +64,11 @@ Legislative rules are required to comply with [[5 U.S.C. § 553]] (with [[#Excep
 	* This notice must be published in the Federal Register.
 	* Notice must contain “either the terms or substance of the proposed rule or a description of the subjects and issues involved.”
 	* Notice must include a statement of the time, place, and nature of the proceeding.
-2. Agencies must provide an opportunity for meaningful comment on the proposed rulemaking, see [[5 U.S.C. § 553#c| § 553(c)]]; see also [[Nova Scotia Foods]].
+2. Agencies must provide an opportunity for meaningful comment on the proposed rulemaking, see [[5 U.S.C. § 553#c| § 553(c)]]; see also [[U.S. v. Nova Scotia Food Products Corp.]].
 	* To allow for meaningful comment, agencies must submit the written data, views, or arguments that are the bases for their proposals.
-	* An agency’s disclosures are inadequate if they result in flawed comment, see [[Nova Scotia Foods]].
-	* Interested parties must be able to comment and object to the proposed rulemaking, see [[Nova Scotia Foods]].
-3. Agencies must provide a concise general statement of basis and purpose, see [[Nova Scotia Foods]]. The general statement must:
+	* An agency’s disclosures are inadequate if they result in flawed comment, see [[U.S. v. Nova Scotia Food Products Corp.]].
+	* Interested parties must be able to comment and object to the proposed rulemaking, see [[U.S. v. Nova Scotia Food Products Corp.]].
+3. Agencies must provide a concise general statement of basis and purpose, see [[U.S. v. Nova Scotia Food Products Corp.]]. The general statement must:
 	* Provide a concise explanation for the final rule
 	* Address “vital” questions of “cogent materiality”
 	* Address relevant factors
@@ -77,11 +77,11 @@ Legislative rules are required to comply with [[5 U.S.C. § 553]] (with [[#Excep
 	* Address central objections (but not every objection)
 -   (check) If there have been changes to the final rule, the agency is required to give supplemental notice when the changes are neither
 	1. in character with the original notice of proposed rulemaking nor 
-	2. a logical outgrowth of the original notice and comment period, see [[Chocolate Manufacturers]].
+	2. a logical outgrowth of the original notice and comment period, see [[Chocolate Manufacturers Association v. Block]].
 
-**NOTE**: The agency’s explanation must be contemporaneous in light of the existing administrative record. Unstated reasons may motivate an agency, but the stated reasons must be a basis for its decision. Courts can order further discovery in cases of bad faith, see [[Dept. of Commerce]]
+**NOTE**: The agency’s explanation must be contemporaneous in light of the existing administrative record. Unstated reasons may motivate an agency, but the stated reasons must be a basis for its decision. Courts can order further discovery in cases of bad faith, see [[DOC v. New York]]
 
-**NOTE**: Agencies must abide by the procedure put forth by the Administrative Procedure Act, and courts cannot ask them implicitly or explicitly to go above and beyond that requirement, see [[Vermont Yankee]]
+**NOTE**: Agencies must abide by the procedure put forth by the Administrative Procedure Act, and courts cannot ask them implicitly or explicitly to go above and beyond that requirement, see [[Vermont Yankee Nuclear Power Corp. v. National Resource Defense Council]]
 
 #### Interim Final Rulemaking
 An interim final rule goes straight into effect but takes after-the-fact comment. It has the opportunity to integrate proposals from comments into the final rule within 60 days of the rule having been published.
@@ -107,9 +107,9 @@ Formal hearings have the following characteristics:
 
 #### Agency held a formal hearing
 * A formal hearing is invalid if the agency failed to meet the requirements set forth in [[5 U.S.C. § 556|§ 556]] and [[5 U.S.C. § 557|§ 557]] (e.g., prejudicial lack of oral testimony).
-* Agencies may sometimes announce new policies of general applicability in adjudications but only for certain reasons, see [[Chenery|Chenery II]]. If they do, the agency must balance the ill effects of retroactivity against the mischief of product results that are contrary to statutory design or legal and equitable principles. Acceptable reasons to use adjudication for, effectively, case-by-case rulemaking are
+* Agencies may sometimes announce new policies of general applicability in adjudications but only for certain reasons, see [[SEC v. Chenery|Chenery II]]. If they do, the agency must balance the ill effects of retroactivity against the mischief of product results that are contrary to statutory design or legal and equitable principles. Acceptable reasons to use adjudication for, effectively, case-by-case rulemaking are
 	* if a principle must await development through adjudication (like common law)
 	* if a situation was unforeseeable
 	* if the agency has insufficient experience with a particular problem such that it cannot make a solid rule
 	* if the problem is too specialized or varying in nature to capture in a rule
--   The record must be a contemporaneous basis for the agency’s decision, not an ad hoc one, see [[Chenery#Chenery I|Chenery I]].
+-   The record must be a contemporaneous basis for the agency’s decision, not an ad hoc one, see [[SEC v. Chenery#Chenery I|Chenery I]].

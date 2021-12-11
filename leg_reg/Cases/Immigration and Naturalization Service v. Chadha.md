@@ -12,7 +12,7 @@ Is it constitutional for a single chamber resolution (sans public hear or record
 * **Author** - J. Powell
 * **Reasoning**
 	* the power delegated in this scheme was judicial, and it lacked any of th e protections of the judicial system
-	* **[[Role of the Judiciary]]** - this delegation of judicial power violates the separation of powers
+	* **[[Role of the Judiciary]]** - this delegation of judicial power violates the [[Separation of Powers]]
 
 ## Dissent
 * **Author** - J. White

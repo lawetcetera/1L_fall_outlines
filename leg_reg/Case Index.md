@@ -68,41 +68,41 @@ Presidential Control through Appointments and Removal:
 * [[Myers v. U.S.]]
 * [[Humphrey's Executor v. U.S.]]
 * [[Morrison v. Olson]]
-* [[Free Enterprise]]
-* [[Selia Law]]
+* [[Free Enterprise Fund v. PCAOB]]
+* [[Selia Law LLC v. Consumer Financial Protection Bureau]]
 
 ### The Agency Rulemaking Process
 Notice and Comment Rulemaking:
-* [[Nova Scotia Foods]]
-* [[Chocolate Manufacturers]]
+* [[U.S. v. Nova Scotia Food Products Corp.]]
+* [[Chocolate Manufacturers Association v. Block]]
 
 Exceptions to Notice and Comment Rulemaking:
 * [[AMC v. MSHA]]
 * [[Hoctor v. Dep't of Agriculture]]
 
 Adjudication:
-* [[Chenery|Chenery I and Chenery II]]
+* [[SEC v. Chenery|Chenery I and Chenery II]]
 
 ### Judicial Review of Agency Policy Decisions
 Arbitrary or Capricious Review:
-* [[Vermont Yankee]]
-* [[State Farm]]
+* [[Vermont Yankee Nuclear Power Corp. v. National Resource Defense Council]]
+* [[Motor Vehicles Manufacturers Association v. State Farm]]
 
 Modern Arbitrary or Capricious Review:
-* [[DHS v. Regents]]
+* [[DHS v. Regents of University of California]]
 * [[DOC v. New York]]
 
 ### Judicial Review of Agency Statutory Interpretation
-* [[Hearst]]
-* [[Skidmore]]
+* [[NLRB v. Hearst Publications]]
+* [[Skidmore v. Swift & Co]]
 * [[Chevron]]
 
 Limitations on Chevron's Application:
 * Major Questions Cannon
 	* [[FDA v. Brown & Williamson]]
 * Chevron Step Zero
-	* [[Mead]]
+	* [[U.S. v. Mead]]
 * Constitutional Avoidance
-	* [[DeBartolo]]
+	* [[DeBartolo Corp. v. Florida Gulf Coast Building and Construction Trades Council]]
 * Federalism
-	* [[SWANCC]]
+	* [[SWANCC v. U.S. Army Corps of Engineers]]

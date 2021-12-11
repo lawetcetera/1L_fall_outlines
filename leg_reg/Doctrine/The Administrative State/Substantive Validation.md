@@ -7,13 +7,13 @@ To determine what it is an agency has issued, see [[Procedural Validation]].
 A court may find the agency's interpretive rule to be *valid* or to be *unsound*.
 
 #### Mead Framework
-Applying [[Mead]], the agency’s interpretation should be scrutinized under the framework set forth in [[Chevron]] or [[Skidmore]].
- 1. The first question is whether Congress delegated to the agency the authority to make rules carrying the force of law, see [[Mead]].
+Applying [[U.S. v. Mead]], the agency’s interpretation should be scrutinized under the framework set forth in [[Chevron]] or [[Skidmore v. Swift & Co]].
+ 1. The first question is whether Congress delegated to the agency the authority to make rules carrying the force of law, see [[U.S. v. Mead]].
 	 * ==Answer whether Congress did== (possibilities include [[Notice and Comment Rulemaking]] authorization, permission to “regulate,” formal adjudicatory hearings, or comparably formal requirements). Delegation of quasi-judicial or quasi-executive power do not count.
 	1.   IF CONGRESS DID → The second question under Mead is whether the agency exercised that authority when promulgating this interpretation. 
 			  *   ==Answer whether the agency did==
 			1.   IF THE AGENCY DID → Because the agency, to issue this interpretation, used the legislative authority delegated to it by Congress, apply the [[#Chevron Framework]] (below)
-			2.   IF THE AGENCY DIDN’T → Because the agency issued its interpretation without using the legislative authority delegated to it by Congress, Skidmore applies, and the agency’s interpretation is owed judicial deference according to its “power to persuade,” [[Mead]] (quoting [[Skidmore]]).
+			2.   IF THE AGENCY DIDN’T → Because the agency issued its interpretation without using the legislative authority delegated to it by Congress, Skidmore applies, and the agency’s interpretation is owed judicial deference according to its “power to persuade,” [[U.S. v. Mead]] (quoting [[Skidmore v. Swift & Co]]).
 	2.    IF CONGRESS DIDN’T → Because Congress did not delegate legislative authority to this agency, Mead's second question is moot, and the [[#Skidmore Framework]] applies. Consider also were Congress to have delegated that authority, whether the agency used delegated authority here.
 	
 #### Chevron Framework
@@ -51,11 +51,11 @@ IN EITHER CASE → Consider if the agency had been delegated legislative authori
 -   Legislative History
 	-   See [[Chevron]], as a reminder that agencies can change their interpretations over time.
 -   Constitutional Avoidance
-	-   See [[DeBartolo]]. Aside from the Chevron and Skidmore analyses, constitutional avoidance also works in favor of setting aside the agency's interpretation when the interpretation raises serious Constitutional issues. Such an interpretation may only be deferred to (and thus give rise to Constitutional questions for the court to take up) if Congress made a clear statement allowing for it.
+	-   See [[DeBartolo Corp. v. Florida Gulf Coast Building and Construction Trades Council]]. Aside from the Chevron and Skidmore analyses, constitutional avoidance also works in favor of setting aside the agency's interpretation when the interpretation raises serious Constitutional issues. Such an interpretation may only be deferred to (and thus give rise to Constitutional questions for the court to take up) if Congress made a clear statement allowing for it.
 - Major Question Cannon
 	*	See [[FDA v. Brown & Williamson]]. Aside from the Chevron and Skidmore analyses, this canon compels setting aside the agency's interpretation when the question posed by the statute involves significant political and economic impacts. Major questions must only be answered by agency interpretations **when Congress has given a clear statement giving the agency such jurisdiction**. Deference under the Chevron framework is premised on Congress’ implicit delegations of authority to agencies, but significant issues like this require explicit delegations. ^563656
 -   Federalism
-	-   See [[Swancc]].
+	-   See [[SWANCC v. U.S. Army Corps of Engineers]].
 
 
 ## Validation of an agency policy decision
@@ -67,8 +67,8 @@ IN EITHER CASE → Consider if the agency had been delegated legislative authori
 
 ### Arbitrary and Capricious Review
 
-The arbitrary and apricious standard of review was put forth in [[State Farm]].
--   The agency must provide a record that is whole, [[5 U.S.C. § 706]], and also adequate for judicial review, [[Nova Scotia Foods]].
+The arbitrary and apricious standard of review was put forth in [[Motor Vehicles Manufacturers Association v. State Farm]].
+-   The agency must provide a record that is whole, [[5 U.S.C. § 706]], and also adequate for judicial review, [[U.S. v. Nova Scotia Food Products Corp.]].
 -   Analyze whether the agency's decision is arbitrary and capricious under the [[#State Farm Factors]].
 -   A&C → The agency’s policy decision is arbitrary and capricious and is void under [[5 U.S.C. § 706]].
 -   NOT A&C → The agency’s policy decision is well-reasoned and supported by the record, and it may stand as such.

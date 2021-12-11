@@ -30,7 +30,7 @@
 	* Placement in the code, see [[Yates]]
 
 #### Semantic Cannons
-* ***ejusdem generis***, see [[McBoyle v. U.S.]]
+* ***[[ejusdem generis]]***, see [[McBoyle v. U.S.]]
 	* When a list of specific items is followed by a catch-all phrase, the catch-all is restricted to other things of the same type as those listed before it
 * ***noscitur a sociis***, see [[General Dynamics Land Systems v. Cline]], [[Gustafson v. Alloyd Co.]]
 	* A word gathers meaning from those around it
