@@ -5,4 +5,4 @@
 
 ## Money: mortgages, financing, and foreclosure
 
-## Protectin title: recording
+## Protecting title: recording

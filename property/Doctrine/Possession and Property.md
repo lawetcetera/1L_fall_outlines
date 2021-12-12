@@ -1,6 +1,5 @@
 # Possession and Property
-## Property First Principles
-Property rights are always relative to the property rights of others, see [[Pierson v. Post]]; see also [[Van Valkenburgh v. Lutz]]. They exist on a timeline, and over time they will change.
+
 
 ## Possession
 Possession can be *actual* or *constructive*:
