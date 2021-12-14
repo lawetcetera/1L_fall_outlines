@@ -171,22 +171,68 @@ An easement is a grant of an interest in land that entitles a person to use land
 
 #### Real Covenants
 
-Real covenants are covenants that run with the land *at law*, so plaintiffs, when suing for breach, must satisfy the requirements for the covenant to run at law
+Real covenants are covenants that run with the land *at law*, so plaintiffs, when suing for breach, must satisfy the requirements for the covenant to run at law.
+
+Real covenants must be in writing; they cannot be implied or acquired by prescription.
+* Most are only signed by the grantor, and by accepting the covenant (usually in the deed), the grantee agrees to be bound as the promisor
 
 **Affirmative covenant** - promise to do something on the land
 **Negative covenant** - promise not to do something on the land
 
 **Enforcement by or against successors in interest**
+In order to show the **burden** of the covenant runs with the estate, one must prove:
+* *Intent* - the original parties must have intended the burden to run
+* *Touch and Concern* - the substance of the promise must touch and concern both the burdened and benefited land. This means that the promise must affect the use and enjoyment of land or must affect the advantages and burdens of land ownership
+*  *Veritical Privity* - all courts require vertical privity of estate between the original promisor and the successor to the burdened estate
+	* Generally satisfied when the successor acquires an estate of at least the same duration as the original promisor
+	* Vertical privity applies to *estates* in land, not to the land itself. Therefore, the burden of a real covenant does not run to an [[Possession and Property#Adverse Possession| adverse possesor]].
+* *Horizontal Privity* - (depricated) the older, now disfavored view of real covenants required horizontal privity of estate between the original parties
+	* This is not established by tenurial interests (leases)
+	* Generally satisfied whenever the two original parties have either
+		* a preexisting mutual interest in each other's estates; or
+		* the real covenant is created in the instrument by which one owner transfers title to the other owner
 
+**NOTE**: Privity is only created through land transactions, not through promises. In order for there to be horizontal privity, a covenant must be made *at the same time* as the conveyance or via a straw conveyance.
+* In a straw conveyance, a third party receives both properties and immediately re-conveys them with the covenants attached in order to ensure the restriction is placed on the chain of title
 
+In order to show the **benefit** of the covenant runs with the estate, one must prove:
+* *Intent*
+* *Vertical Privity* - most courts require privity of estate between the original promisor and the successor to the benefited estate, but privity is satisfied so long as the successor acquires some interest in the originally benefited estate
+* *Touch and Concern* - though this requirement is breaking down both by statute and judicial opinions
+
+The standard to prove benefit is lower.
 
 #### Equitable Servitudes
-Equitable servitudes are promises made that 
+Equitable servitudes are promises made comprising the elements below. They are very similar in practice to real covenants, with the distinction of remedies available in the event of breach.
 
-### Real covenant or equitable servitude?
-The two are basically the same thing, with the key distinction of what remedies are available to each, and what analysis a court applies when evaluating whether to award that remedy.
+**Elements**
+* Intent to bind successors
+* Touch and concern the land
+* Notice to purchaser of burdened property
+	* Either actual or constructive (from chain of title)
+* **NOTE**: There is no privity requirement for equitable servitudes
+
+#### Real covenant or equitable servitude?
+The two are basically the same thing, with the key distinction of what remedies are available to each, and what analysis a court applies when evaluating whether to award that remedy. Real covenants have remedies at law; equitable servitudes have remidies in equity.
 * For money damages, use the real covenant analysis
 * For an injunction, consider whether the requirements of an equitable servitude have been met
+
+#### Reciprocal Negative Easements
+A reciprocal negative easement can be created by implication from a general plan of development of a residential subdivision (in the majority of states)
+* If a common owner sells one lot with restrictions that benefit the land retained, the reciprocal negative easement is "fastened onto" lots still held by the common owner
+
+#### Termination of Restrictive Covenants and Equitable Servitudes
+* *Unreasonable restraint on alienation* - if enforcing the covenant would result in this, a court is unlikely to enforce it
+* *Merger of benefited and burdened estates*
+* *Expiration of the covenant* - by its own terms
+* *Release* - all owners of a benefited property can grant a written release to the owner of the burdened estate. Release must be in writing to satisfy the Statute of Frauds (but if they fail to do so, they may still be estopped from later denying it)
+* *Changed conditions* - if conditions within the area affected by the servitude have so radically and thoroughly changed that the servitude cannot accomplish its purpose, it will be extinguished. In this case *all* of the benefited land must have lost its benefit
+* *Unclean hands* - the owner of benefited property seeking to enforce a common burden that he himself has violated
+* *Abandonment* - a collective version of unclean hands. When a servitude is frequently and persistently violated without enforcement, it may be treated as abandoned by the benefit holders
+* *Acquiescence* - usually only found when owner of benefited property endures multiple violations but then tries to enforce the covenant selectively against one owner
+* *Equitable Estoppel* - if the party seeking an equitable servitude has knowingly lied to a defendant ignorant of the true facts, intending to actually induce reliance on the lie, he will be estopped from enforcing the servitude
+* *Laches* - unreasonable delay in enforcing an equitable servitude when coupled with some resulting prejudice to the defendant will bar enforcement (rare)
+* *Eminent Domain* - the parcel of land is condemned
 
 ### Common Interest Communities
 
@@ -199,7 +245,7 @@ Zoning, occasionally called [[Euclid v. Ambler Realty Co.|Euclidian zoning]], is
 ### Non-conforming Use
 
 
-### Variances and Special Exceptions
+### Vaor theriances and Special Exceptions
 
 ### Aesthetic Regulation
 
