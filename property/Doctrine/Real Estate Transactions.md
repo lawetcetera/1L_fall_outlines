@@ -18,6 +18,13 @@ Agents make money by comission. Except in cases of very high-end real estate, th
 
 Lawyers try to push for every possible advantage for their clients. They are under no financial incentive to close a deal.
 
+### Bona Fide Purchasers
+*Bona fide purchasers* are purchasers without actual or constructive notice of encumberances, other claims of title, etc.
+
+Courts try to protect bona fide purchasers who pay valuable consideration and act in good faith.
+
+When a title is voidable, the true owner can rescind the transaction and get her property back from the wrongdoer, but she cannot get property back from a bona fide purchaser.
+
 ### Timeline of a sale
 1. **Listing**
 2. **Purchase and sale agreement**
@@ -139,11 +146,15 @@ Forged deeds are void. The grantor whose signature was forged prevails over all 
 * **Remedies for breach**
 	* breach of the covenant of seisin
 		* return all or portion of the purchase price
+		* majority of jurisdictions hold breach even if the grantee had knowledge of the defect/easement
 	* breach of the covenant against encumberances
 		* for encumberances easily removed, the cost of removal
 		* for encumberances not easily removed, the difference in value between the land with and without the encumberance
 		* Damages are limited by the total price received by the warrantor
 		* Think expectation damages -- tries to put the warantee in as good of a position as they'd be in if the covenant were not to have been breached
+	* breach of future covenants
+		* the grantee must be in possession of the property in order to sue on future covenant
+		* the statute of limitations begins to run on a future covenant at the time of eviction or when the covenant is broken
 
 ### Delivery of the deed
 See: [[Rosengrant v. Rosengrant]]
@@ -161,17 +172,82 @@ To constitute a transfer, a deed must be:
 
 ### How mortgages work
 
+1. Buyer applies for a mortgage
+	* the buyer is the mortgagor, the bank is the mortgagee
+2. Lender checks buyer's credit, earnings, job security, etc. If approved, the lender will issue a commitment to provide financing on *specified terms*, within a *specified time period*
+3. Borrowers must give leder a promissory note and a mortgage
+	* The promissory note creates personal liability
+	* The mortgagee requires the mortgagor to execute a mortgage on some specific property. The mortgagee can foreclose on this property if the mortgagor fails to make payments or does not perform their contractual obligations
+4.  Borrower makes a down payment.
+
+In about half of all states, the mortgagor has a statutory right to buy back the title from the purchaser at a judicial foreclosure sale for the sales price within a specific period after the foreclosure sale
+
+**NOTE**: There is no national uniform mortgage law
 
 ### Mortgage foreclosure
+See: [[Murphy v. Fin. Dev. Corp.]]
+ A *deed of trust* allows lenders to avoid judicial foreclosure 
+* The borrower conveys title to a person to hold in trust to secure payment to the lender. The trustee is given the power to sell the land without going to court in the event of default.
 
+A *power of sale mortgage* gives the mortgagee the power to sell in the case of foreclosure.
+* A foreclosure sale is conducted by a representative of the lender as opposed to an agent of the state
+* Most often, the lender bids and wins because these sales are not widely advertised, foreclosure sales are cash only, and the risk associated with foreclosure purchases is high. The lender will often only bid the amount due to them, so that they do not have to pay out to the mortagor's accumulated equity.
+* Courts generally require *good faith and due diligence* on the part of the bank when conducting a foreclosure sale
+	* *due diligence* - the mortgagee must try to secure a reasonable portion of the owner's equity
+	* *bad faith* - "intentional disregard of duty or purpose to injure"
+		* Sellers who fail to obtain a fair price have not necessarily acted in bad faith.
 
 
 
 ## Protecting Title: Recording
 ### The recording system
 
-### Title searches
+Recording tracks the ownership of property in a jurisdiction (usually municipalities). Recording serves to protect subsequent bona fide purchasers from prior unrecorded interests.
 
-### Bona Fide Purchasers
+**Functions and Benefits**
+* A recorded deed provides constructive notice
+* Assures purchasers that they have good title to the land they purchase
+* Establishes a system of public recordation and land titles
+* Preserves important documents in a secure location
+* Protects purchasers for value and lien creditors against prior unrecorded interests
+
+### Title searches
+See: [[Guillette v. Daly Dry Wall]]
+
+The actual title records are very long and cumbersome to search. In order to render them usable, title indexes are maintained to assist those performing title searches
+
+**Types of title indexes**
+* *Grantor-Grantee Index* - Indices of transactions indexed by the surnames of parties to exchanges.
+	* Separate indices are kept for grantors and grantees
+	* Contain metadata about the property and the transaction
+		* Grantor, grantee, description of land, kind of instrument, date, volume, and page numbers where the instrument may be found
+	* Grantor index: all instruments are indexed alphabetically and chronologically
+	* Grantee index: all instruments are indexed under the grantee's surname
+	* This enables searches to be done [[#^f0ad72|first backward and then forward]]
+* *Tract Index* - Indices of transactions indexed by property
+	* Indexing by tract is not as easy as it sounds-- tracts are often broken up or recombined, making them difficult to track over long periods of time
+	* These do not exist in most states
+	* Kept most often by realtors; serve as a secondary set of records in the event of loss (e.g., town hall burns down)
+
+**Searching title** ^f0ad72
+* Starting with the present owner, search backward in time to an acceptable source or root of title through the grantor index and then forward in time through the grantee index.
+	* Some jurisdictions require a search back to the sovereign, others require only a number of years fixed by statute
+	* A purchaser is responsible for searching other deeds that have a common grantor in order to check for express restrictions on the property being purchased. This protects the expectations of other lot owners
 
 ### Recording Acts
+Types of recording statutes:
+* **Race Statute** - (depricated) the first to record a purchase prevails in questions of title
+	* Being aware of a superior claim of title does not matter so long as you are the first to record your interest
+	* This encourages the use of and reliance on the recording system
+	* Easy to administer
+* **Notice Statute** - subsequent purchasers can claim superior title only if they had no notice of the prior purchaser's claim
+	* Whether actual or constructive notice is required varries by jurisdiction
+	* This promotes fairness and justice
+	* Hard to administer 
+* **Race-Notice Statute** - subsequent purchasers can claim superior title only if they record first and had no notice of the prior purchaser's claim
+	* Promotes the use of and reliance on the recording system
+	* Tends to eliminate lawsuits based on extrinsic evidence about which deed was delivered first
+	* Medium difficulty to administer
+
+
+About half of states have notice statutes, about half have race-notice statutes.
