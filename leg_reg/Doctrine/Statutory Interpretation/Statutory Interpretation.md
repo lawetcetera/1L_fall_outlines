@@ -3,12 +3,22 @@
 ## Theories
 
 **textualism** - words speak for themselves; to consider information outside of the text of the statute is illegitimate, as the text represents the result of the legislative process (and whatever compromises that it may comprise)
+* [[West Virginia University Hospitals v. Casey]]
+* [[Bostock v. Clayton County]]
+* [[King v. Burwell]] (kind of)
 
 **purposivisim** - the letter of the law matters less than the purpose of it; look to whatever clues tell you what this statute was trying to accomplish, and interpret this situation in light of the statute's purpose
+* [[Riggs v. Palmer]]
+* [[King v. Burwell]]  (kind of)
+* [[General Dynamics Land Systems v. Cline]] (kind of)
 
 **intentionalism** - the intention of the enacting congress is at the core of the statute; any tools that shed light on the thoughts of those particular individuals at the time the statute was enacted are fair game
+* [[U.S. v. Kirby]] (absurdity doctrine)
+* [[Public Citizen v. U.S. DOJ]] (absurdity doctrine)
 
 **dynamic statutory interpretation** - just as our social contracts adapt and change over time, so too should our reading of statutes; the purpose, intention, and text settled on by the enacting congress tell us what they were trying to accomplish in the context of their time, and we ought to read their work in the context of ours
+* [[Hively v. Ivy Tech]]
+* [[Commonwealth v. Welosky]]
 
 ## Tools for interpreting statutes
 

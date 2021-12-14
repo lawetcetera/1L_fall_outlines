@@ -6,3 +6,4 @@ Does Congress have the power to appoint officers to the Federal Election Commiss
 * **Reasoning**
 	* **Appointment Clause** - the power to appoint "Officers of the United States" is vested only in the President
 		* This would be Congress aggrandizing itself
+		* "Significant authority" test
