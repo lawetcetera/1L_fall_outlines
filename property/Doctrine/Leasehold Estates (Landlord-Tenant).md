@@ -97,6 +97,8 @@ A lease may restrict a lessee's ability to sublease, hinging it on landlord appr
 			* For example, a tattoo parlor can be commercially unreasonable in the context of a shopping mall because it could negatively impact surrounding businesses
 			* This example may be a bit dated due to changing social norms. Other examples may include headshops or marijuana dispensaries.
 
+***
+
 ## Rights, duties, and remedies of landlords and tenants
 ### Landlord's Remedies
 

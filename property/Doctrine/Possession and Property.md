@@ -14,6 +14,8 @@ Possession confers a right to exclude others from possession of your thing. Prio
 * Possession gives a point of certainty in property rights
 * Possession usually requires an investment of effort, time, or other resources. The law seeks to reward that effort
 
+***
+
 ## Capture
 ### *ferae naturae*
 The rule of capture articulated in [[Pierson v. Post]] tells us that a person who captures a resource and brings it within her control is entitled to it. Mere pursuit is not enough; only possession, actual or constructive, confers property rights.
@@ -28,6 +30,8 @@ The doctrine of *ad coelom* captures the common law principle that "Who owns the
 
 [[Hammonds v. Central KY Natural Gas|Hammonds]] went on to apply the rule of *[[#ferae naturae]]* to mineral rights, holding that natural gas belonged to whomever had it in their possession.
 * Though only the owner of land has the right to develop an extraction rig on that land (unless they have sold that right), others who own property over the same reservoir have a right to extract natural gas on their own property and may drink your milkshake.
+
+***
 
 ## Adverse Possession
 Adverse possession is the vehicle through which the law rewards someone who uses property as opposed to someone who fails to do so.

@@ -236,22 +236,91 @@ A reciprocal negative easement can be created by implication from a general plan
 
 ### Common Interest Communities
 
+A common interest community is a development mixing common and developer ownership with covenants, conditions, and restrictions, through which owners are legally bound to their neighbors. Governments incentivize these, because they shift the cost of maintaining infrastructure to developers.
+
+For covenants to run with subsequent owners, there must be
+* *Privity*
+* *Intent*
+* *Touch and concern the land* - here, they do not necessarily need to touch and concern the land in the traditional sense, but can instead touch and concern the land in other meaningful ways (e.g., maitenance of common areas)
+
+Homeowners in common interest communities are automatically members of homeowners associations, which enforce the servitudes set forth in the declaration establishing the common interest communities.
+* **HOAs are shadow governments with no limitation and little accountability**
+
+**Types of common intereste communities**
+Though about one sixth of all Americans live in common interest communities (think coops, condos, subdivizions, etc.), they tend to be exclusionary.
+* *Condominiums*
+	* Each unit is owned separately in fee simple, and all public areas including the land beneath are owned by unit owners as tenants in common
+	* Each owner is liable for a monthly charge to maintain common facilities and insure against casualty and liability
+	* Declaration of condominium provides for an association of unit owners to make and enforce rules
+* *Cooperatives*
+	* The title to the land and building is held by a corporation in which the residents all hold shares. The residents control it through an elected board of directors.
+	* Each resident also has a long-term renewable lease of an apartment unit, thus each is both a tenant and an owner
+	* Cooperatives have *one blanket mortgage for the whole building*, so if one co-operator fails to pay his share, the others are liable to make it up
+	* Because of this, coops have strict screening and are very exclusive
+	* Mostly found in New York City
+
+**Covenants, Conditions, and Restrictions**
+* *In the master deed* - enforced as real covenants, equitable servitudes, or servitudes
+	* strong presumption in favor of validity; very strong standard for "unreasonable"
+* *In HOA bylaws* - enforced as real covenants, equitable servitudes, or servitudes
+	* strong presumption in favor of validity; lower bar for "unreasonable" than for those in the master deed, but still a high bar
+* *In cooperative apartments* - courts will usually defer to the "business judgement" of the directors of the corporation
+
+Covenants, conditions, and restrictions can restrict all manner of things, including things that a municipality cannot. This is justified by "protecting real estate values".
+* Some common examples include: color of exterior of house, landscaping, satellite dishes, children’s play equipment, parking in driveway, RVs/trailers, color of car, garage door closed, car work in driveway, color of drapes, no pickup trucks, no signs, pets, minimum age, no children, political signs
+
+A servitude is not too unreasonable to be enforced unless:
+* it is wholly arbitrary;
+* it violates a fundamental public policy; or
+* it imposes a burden on the use of the affected land that outweighs any benefit
+	* Here, the restrictions will be assessed through reference to damage to the whole community rather than any individual
+
 ***
 
 ## Legislative controls: zoning
 
 Zoning, occasionally called [[Euclid v. Ambler Realty Co.|Euclidian zoning]], is constitutional under the police powers of the state. Zoning is a subcategory of legislative regulation.
 
+Zoning ordinances benefit from presumptive validity. They are analyzed under rational basis scrutiny, unless a constitutional right is violated by the zoning ordinance, in which case they are analyzed under strict scrutiny.
+
 ### Non-conforming Use
+Zoning usually acts upon preexisting uses, which often do not fit the new requirements.
+
+Uses may not be banned outright, but they may be restricted in proximity from other uses (e.g., a sex shop and an elementary school).
+
+Uses that do not conform to zoning restrictions run with the land, because they are assumed to be part of the value of the property
+
+**Amortization**
+Amortization in property serves as a work-around for zoning out certain uses. It imagines a fixed value of a non-conforming use that is recovered over time. This doctrine assumes that compliant use is not possible, but non-conforming users are entitled to some length of time to earn back what they have invested into the propety before finding somewhere else to do it.
+
+Amortization is valid in many states. Factors considered when testing its reasonableness include:
+* Length of amortization period granted
+* Amount invested in property
+* Amount of time needed to recoup the investment
+* Number of improvements made by the non-conforming user
+* Public detriment caused by the non-conforming use
+* Character of surrounding neighborhood
 
 
-### Vaor theriances and Special Exceptions
-
-### Aesthetic Regulation
+### Variances and Special Exceptions
+Two requirements for granting a variance:
+* *Undue hardship* (a lax standard)
+	* Problem must not be one of the sufferers’ own creation
+    * Also, owner must take steps to try to make conformity possible
+* Public good and intent of zoning plan – *proposed variance won’t be detrimental to the neighborhood*
+	*  If you can show this, a good chance of getting variance
+	* Refers to the purpose of zoning (air, light, open-space) and to a possible decline in surrounding property values 
+	* Objections of neighbors are important – board usually won’t grant a variance if anyone objects in order to avoid litigation
 
 ### Exclusionary Zoning
+Communities can use exclusionary zoning to define what kind of people they want in their community
+* Often regarded as “keeping minorities out,” but can also be motivated by fiscal concerns such as property tax revenue
+* For example, a town may want to discourage families with many children from moving within its limits, because then it becomes responsible for the education of those children
+	* It cannot ban children outright, but it can do things like restrict the number of bedrooms per unit in new rental complexes, limit number of rental units in general, etc.
+	* Low income families, particularly low income families of color, are more likely to have many children than upper class white families
+* Accordingly, policy that is dressed up in financial motivations can have discriminatory effects
 
-
+    
 
 ***
 ## Physical and regulatory takings
