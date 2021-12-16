@@ -28,9 +28,9 @@
 9. Procedural Due Process
 	* [[Notice]]
 	* [[Opportunity to be Heard]]
-10.  Summary Judgement
-* [[Celotex Framework]]
-* [[Employment Discrimination Framework]]
+10.  Summary Judgment
+	  * [[Celotex Framework]]
+	  * [[Employment Discrimination Framework]]
 11. Law vs. Equity
 	* [[Right to a Jury Trial]]
 	* [[Fact (Jury) vs. Law (Judge)]]
