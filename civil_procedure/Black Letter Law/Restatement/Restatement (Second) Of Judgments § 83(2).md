@@ -1,0 +1,6 @@
+An adjudicative determination by an administrative tribunal is conclusive under the rules of res judicata only insofar as the proceeding resulting in the determination entailed the essential elements of adjudication, including: 
+1.  Adequate notice to persons who are to be bound by the adjudication, as stated in § 2, 
+2.  The right on behalf of a party to present evidence and legal argument in support of the party's contentions and fair opportunity to rebut evidence and argument by opposing parties; 
+3.  A formulation of issues of law and fact in terms of the application of rules with respect to specified parties concerning a specific transaction, situation, or status, or a specific series thereof; 
+4.  A rule of finality, specifying a point in the proceeding when presentations are terminated and a final decision is rendered; and 
+5.  Such other procedural elements as may be necessary to constitute the proceeding a sufficient means of conclusively determining the matter in question, having regard for the magnitude and complexity of the matter in question, the urgency with which the matter must be resolved, and the opportunity of the parties to obtain evidence and formulate legal contentions.

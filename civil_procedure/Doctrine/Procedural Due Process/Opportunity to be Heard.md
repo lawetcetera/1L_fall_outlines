@@ -1,11 +1,11 @@
 # Opportunity to be Heard
 
-The [[U.S. Constitution Ammendment XIV § 1| Due Process Clause]] gives individuals the right to be heard before the government acts to deprive them of property or liberty.
+The [[U.S. Constitution Amendment XIV § 1| Due Process Clause]] gives individuals the right to be heard before the government acts to deprive them of property or liberty. See also, [[Restatement (Second) Of Judgments § 83(2)]].
 
 **What kind of property does the Due Process Clause mean?**
 This refers both to traditional notions of property, either real or chattel, as well as to government issued designations and benefits (e.g., food stamps, driver's license)
 
-When evaluating whether a process as a whole meets the requirements of the [[U.S. Constitution Ammendment XIV § 1| Due Process Clause]], evaluate it using the [[#Sniadach Factors]].
+When evaluating whether a process as a whole meets the requirements of the [[U.S. Constitution Amendment XIV § 1| Due Process Clause]], evaluate it using the [[#Sniadach Factors]].
 
 When evaluating whether a specific change would cure a constitutional defect in a procedural scheme, apply the [[#Matthews v Eldridge Test]].
 

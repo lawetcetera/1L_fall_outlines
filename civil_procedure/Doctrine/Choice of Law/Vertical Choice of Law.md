@@ -34,7 +34,7 @@ How does one determine whether law is substantive or procedural?
 * For example, consider a violation of procedure that will result in dismissal
 
 ### The Hanna majority
-Harlan holds that if a federal law is **valid** and **applicable**, it should be applied, per the [[U.S. Constitution Art. VI#Supremacy Clause|supremacy clause]].
+Harlan holds that if a federal law is **valid** and **applicable**, it should be applied, per the [[Black Letter Law/Constitution/U.S. Constitution Art. VI#Supremacy Clause|supremacy clause]].
 
 The question of what is "valid and applicable" is less straightforward than it sounds.
 
