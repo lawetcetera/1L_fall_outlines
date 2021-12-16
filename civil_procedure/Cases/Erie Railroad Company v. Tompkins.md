@@ -1,0 +1,1 @@
+**RULE**: For substantive issues, federal courts should apply state law. For procedural issues, federal courts may apply federal law

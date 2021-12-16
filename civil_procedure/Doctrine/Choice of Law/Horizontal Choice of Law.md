@@ -2,7 +2,7 @@
 
 Each state determines what process it uses to choose which state's law will apply to litigation.
 
-**Note**:  Federal courts use the choice of law rules of the state in which they sit, see [[Klaxon]].
+**NOTE**:  Federal courts use the choice of law rules of the state in which they sit, see [[Klaxon]].
 
 The rules to determine which state's law will be used depend on whether the issue in question is procedural or substantial. The test used to determine whether an issue is really procedural is as follows:
 * Would this rule have affected pre-litigation conduct?

@@ -27,3 +27,5 @@ A forum selection clause shifts the presumption from the preferred forum of the 
 Then, in the court will proceed to disregard private interest factors when conducting its transfer analysis, as those were waived by entering into this contract.
 
 If the case is transferred to comply with a forum selection clause, then the transferee court's choice of law rules will now govern.
+
+A forum selection clause that stipulates a forum abroad does not render venue improper, so it will have no bearing on whether a case will transfer within the United States.
