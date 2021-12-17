@@ -10,7 +10,7 @@ Two general rules apply to jury instructions:
 -   Harmless Error Principle: if an appeals court encounters an error that it believes was harmless (i.e., did not affect outcome), it will refuse to reverse the decision despite the presence of the error.
 	-   This is the appeals court’s most powerful way to affirm decisions 
 	-   There is a narrow class of issues that fall under the umbrella of “structural error” (e.g. party demands a jury trial, is entitled to one, but doesn’t get it) that is not subject to harmless error analysis 
--   In Kennedy, Ninth Circuit holds that when a party has requested an instruction that is close to being correct, trial judge is under obligation to correct instruction and issue it 
-	* Greiner is not sure that this is the law in all circuits
+-   In [[Kennedy]], Ninth Circuit holds that when a party has requested an instruction that is close to being correct, trial judge is under obligation to correct instruction and issue it 
+	* This is not the law in all circuits. It some, it is fine for a judge to issue a legally incorrect jury instruction as it was provided to him
 
-**NOTE**: Jury instructions are only ever read to jurrors. They are not delivered in writing. Jurrors are not allowed to take notes on what the instructions are. This should tell you a lot about what the legal system really thinks about jurrors.
+**NOTE**: Jury instructions are only ever read to jurors. They are not delivered in writing. Jurors are not allowed to take notes on what the instructions are. This should tell you a lot about what the legal system really thinks about jurors.

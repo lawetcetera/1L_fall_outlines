@@ -1,3 +1,4 @@
+# Table of Contents
 1. [[Big Picture Questions]]
 2. [[Constitutional vs Statutory Requirements]]
 3. [[Subject Matter Jurisdiction]]
@@ -28,18 +29,18 @@
 9. Procedural Due Process
 	* [[Notice]]
 	* [[Opportunity to be Heard]]
-10.  [[Summary Judgment]]
+10.  [[Motion for Summary Judgment]]
 	  * [[Celotex Framework]]
 	  * [[Employment Discrimination Framework]]
 11. Law vs. Equity
 	* [[Right to a Jury Trial]]
 	* [[Fact vs. Law]]
+12. [[Trial & Post-Trial Practice]]
+	* [[Motion for Judgement as a Matter of Law]]
+	* [[Motion for a New Trial]]
+	* [[Additur & Remittur]]
 	* [[Jury Instructions]]
 	* [[Findings of Fact & Conclusions of Law]]
-12. Trial & Post-Trial Practice
-	* [[Judgement as a Matter of Law]]
-	* [[New Trial]]
-	* [[Additur & Remittiur]]
 	* [[Time Limits]]
 	* [[Relief from a Judgement or Order]]
 13. Appellate Litigation
